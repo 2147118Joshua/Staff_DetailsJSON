@@ -1,10 +1,10 @@
 {"employees":[
-    {"full_name":"Joshua Stalin","gender":"male","email":"joshua@imkan.com","phone":"+91 8618897671","age":"20","designation":"IT","salary":"4227","dob":"16/12/1999"},
-    {"full_name":"Macdonald Rosales","gender":"male","email":"macdonaldrosales@affluex.com","phone":"+91 7531548920","age":"21","designation":"Teaching","salary":"8878","dob":"15/1/1998"},
-    {"full_name":"Cash Marsh","gender":"male","email":"cashmarsh@remold.com","phone":"91 8541026973","age":"31","designation":"IT","salary":"9686","dob":"21/12/1980"},
-    {"full_name":"Ofelia Cooley","gender":"female","email":"ofeliacooley@geeketron.com","phone":"+91 9574100863","age":"39","designation":"Sports","salary":"9321","dob":"05/05/1985"},
-    {"full_name":"Erma Chase","gender":"female","email":"ermachase@megall.com","phone":"+91 8845963110","age":"21","designation":"IT","salary":"8145","dob":"16/11/2000"},
-    {"full_name":"Maryanne Mullins","gender":"female","email":"maryannemullins@olucore.com","phone":"+91 9988741250","age":"33","designation":"Teaching","salary":"9564","dob":"16/12/1999"},
-    {"full_name":"Christina Dickerson","gender":"female","email":"christinadickerson@halap.com","phone":"+91 8541203997","age":"21","designation":"Teaching","salary":"7966","dob":"15/05/1997"}
+    {"full_name":"Joshua Stalin","gender":"male","email":"joshua@imkan.com","phone":"+91 8618897671","age":"20","designation":"IT","salary":"42270","dob":"16/12/1999"},
+    {"full_name":"Macdonald Rosales","gender":"male","email":"macdonaldrosales@affluex.com","phone":"+91 7531548920","age":"21","designation":"Teaching","salary":"88780","dob":"15/1/1998"},
+    {"full_name":"Cash Marsh","gender":"male","email":"cashmarsh@remold.com","phone":"91 8541026973","age":"31","designation":"IT","salary":"96860","dob":"21/12/1980"},
+    {"full_name":"Ofelia Cooley","gender":"female","email":"ofeliacooley@geeketron.com","phone":"+91 9574100863","age":"39","designation":"Sports","salary":"93210","dob":"05/05/1985"},
+    {"full_name":"Erma Chase","gender":"female","email":"ermachase@megall.com","phone":"+91 8845963110","age":"21","designation":"IT","salary":"81450","dob":"16/11/2000"},
+    {"full_name":"Maryanne Mullins","gender":"female","email":"maryannemullins@olucore.com","phone":"+91 9988741250","age":"33","designation":"Teaching","salary":"95640","dob":"16/12/1999"},
+    {"full_name":"Christina Dickerson","gender":"female","email":"christinadickerson@halap.com","phone":"+91 8541203997","age":"21","designation":"Teaching","salary":"70966","dob":"15/05/1997"}
     
 ]}
